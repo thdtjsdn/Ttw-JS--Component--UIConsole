@@ -11,6 +11,7 @@
 # Browser 상에서 console.log, etc.. 확인 UI Panel
 
 - 파일 다운로드 후 사용
+- 사용하는 서버에서 *.gz 서비스가 가능하게 설정
 
 ```html
 <!DOCTYPE html>
