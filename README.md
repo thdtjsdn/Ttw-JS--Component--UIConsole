@@ -12,7 +12,7 @@
 
 ```html
 <!DOCTYPE html>
-<html lang="kr" xml:lang="kr">
+<html>
 <head>
     <script type="text/javascript" src="index--ConsoleUI.js.gz" async="false" defer="true"></script>
 </head>
