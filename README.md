@@ -12,14 +12,14 @@
 
 \`\`\`html
 <!DOCTYPE html>
-<HTML lang="kr" xml:lang="kr">
+<html lang="kr" xml:lang="kr">
 
-<HEAD>
-	<SCRIPT type="text/javascript" src="index--ConsoleUI.js.gz" async="false" defer="true"></SCRIPT>
-</HEAD>
+<head>
+    <script type="text/javascript" src="index--ConsoleUI.js.gz" async="false" defer="true"></script>
+</head>
 
-<BODY>
-</BODY>
+<body>
+</body>
 
-</HTML>
+</html>
 \`\`\`
