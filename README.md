@@ -8,7 +8,9 @@
 
 ---
 
--- Browser 상에서 console.log, etc.. 를 확인할수 있는 UI Panel입니다.
+# Browser 상에서 console.log, etc.. 확인 UI Panel
+
+- 파일 다운로드 후 사용
 
 ```html
 <!DOCTYPE html>
@@ -20,6 +22,8 @@
 </body>
 </html>
 ```
+
+- 서비스 제송하는 서버 활용
 
 ```html
 <!DOCTYPE html>
