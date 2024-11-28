@@ -24,13 +24,26 @@
 </html>
 ```
 
-- 서비스 제송하는 서버 활용
+- 서비스 제공 서버 활용
 
 ```html
 <!DOCTYPE html>
 <html>
 <head>
     <SCRIPT type="text/javascript" src="https://thdtjsdn.com:49311/app_tool_dev/html_page/UIConsole/index--ConsoleUI.js.gz" async="false" defer="true"></SCRIPT>
+</head>
+<body>
+</body>
+</html>
+```
+
+- Cumtom Element
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <SCRIPT type="text/javascript" src="https://thdtjsdn.com:49311/js-ce-p/app_tool_dev/UIConsole/defineClasses.js.gz" async="false" defer="true"></SCRIPT>
 </head>
 <body>
 </body>
